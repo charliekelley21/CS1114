@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.params=
+comment0.target=MazeRunnerTest()
+comment0.text=\r\n\ Creates\ a\ new\ MazeRunnerTest\ test\ object.\r\n
+comment1.params=
+comment1.target=void\ testMyProgram()
+comment1.text=\r\n\ Test\ the\ myProgram()\ method\ on\ 100\ different\ iterations\ of\ the\ MazeIsland\r\n
+comment2.params=
+comment2.target=void\ testHugRightWallRepeated()
+comment2.text=\r\n\ Test\ the\ hugRightWall()\ method\ on\ all\ iterations\ of\ MazeIsland\ such\ that\r\n\ the\ MazeRunner\ starts\ in\ the\ south\ east\ and\ ends\ in\ the\ northwest.\r\n
+comment3.params=
+comment3.target=void\ testHugRightWallSkipped()
+comment3.text=\r\n\ Test\ the\ hugRightWall()\ method\ on\ an\ empty\ island\ to\ test\ if\ the\ loop\r\n\ is\ skipped\ and\ operates\ properly.\r\n
+comment4.params=
+comment4.target=void\ testLookBeforeHopClear()
+comment4.text=\r\n\ Test\ the\ lookBeforeHop()\ method\ on\ the\ 75th\ iteration\ of\ MazeIsland\r\n\ when\ the\ path\ is\ clear.\r\n
+comment5.params=
+comment5.target=void\ testLookBeforeHopWater()
+comment5.text=\r\n\ Test\ the\ lookBeforeHop()\ method\ on\ the\ 75th\ iteration\ of\ MazeIsland\r\n\ when\ the\ path\ is\ Blocked\ by\ water.\r\n
+comment6.params=
+comment6.target=void\ testLookBeforeHopNet()
+comment6.text=\r\n\ Test\ the\ lookBeforeHop()\ method\ on\ the\ 75th\ iteration\ of\ MazeIsland\r\n\ when\ the\ path\ is\ Blocked\ by\ a\ Net.\r\n
+numComments=7

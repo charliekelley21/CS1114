@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=x\ y
+comment0.target=SearchingJeroo(int,\ int)
+comment0.text=\r\n\ Creates\ a\ new\ SearchingJeroo\ object\ facing\ east\ with\ no\ flowers.\r\n\ @param\ x\ \ \ \ \ the\ x-coordinate\ of\ the\ Jeroo's\ location.\r\n\ @param\ y\ \ \ \ \ the\ y-coordinate\ of\ the\ Jeroo's\ location.\r\n
+comment1.params=dirTurn
+comment1.target=void\ harvestRow(int)
+comment1.text=\r\n\ The\ harvestRow()\ method\ allows\ the\ Jeroo\ to\ move\ forward\ until\ it\ \r\n\ hits\ water\ or\ a\ net,\ collecting\ flowers\ as\ it\ goes.\r\n\ <p>\r\n\ This\ method\ utilizes\ a\ while\ loop\ and\ boolean\ logic\ to\ create\ a\ \r\n\ loop\ that\ terminates\ when\ the\ SearchingJeroo\ sees\ water\ or\ a\ net\r\n\ ahead.\ While\ the\ loop\ is\ cycling\ the\ Jeroo\ hops\ forward\ and\ picks\ \r\n\ a\ flower\ after\ each\ hop.\r\n\ \r\n\ @param\ dirTurn\ \ \ the\ value\ for\ determining\ the\ direction\ to\ turn.\r\n
+comment2.params=
+comment2.target=void\ turnAround()
+comment2.text=\r\n\ The\ turnAround()\ method\ turns\ the\ SearchingJeroo\ around\r\n\ 180\ degrees.\r\n\ <p>\r\n\ This\ method\ uses\ the\ turn\ method\ and\ executes\ it\ twice\ in\ \r\n\ order\ to\ easily\ turn\ the\ SearchingJeroo\ around.\r\n
+comment3.params=
+comment3.target=void\ zigZag()
+comment3.text=\r\n\ The\ zigZag()\ method\ moves\ the\ Searching\ Jeroo\ in\ a\ zigzag\r\n\ pattern\ and\ picks\ a\ flower.\r\n\ <p>\r\n\ This\ method\ combines\ several\ hops\ and\ two\ turns\ in\ order\ \r\n\ to\ move\ diagonally\ south\ east.\ The\ method\ ends\ with\ picking\ a\ flower.\r\n
+numComments=4

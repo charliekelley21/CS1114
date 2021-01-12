@@ -1,0 +1,26 @@
+#BlueJ class context
+comment0.params=animal\ threshold
+comment0.target=Agent(java.lang.String,\ double)
+comment0.text=\r\n\ Creates\ a\ new\ Agent\ object.\r\n\ @param\ animal\ \ \ \ string\ of\ the\ animal\ type\r\n\ @param\ threshold\ threshold\ of\ animal\ for\ satisfaction\r\n
+comment1.params=
+comment1.target=void\ act()
+comment1.text=\r\n\ The\ act\ method\ is\ called\ every\ tick\ of\ time\ and\ sends\ a\ \r\n\ request\ for\ the\ agent\ object\ to\ move\ if\ they\ are\ not\r\n\ satisfied\ at\ their\ current\ position.\r\n
+comment2.params=
+comment2.target=java.lang.String\ getKind()
+comment2.text=\r\n\ The\ getKind()\ method\ is\ a\ getter\ method,\ returning\r\n\ the\ kind\ of\ animal,\ elephant\ or\ monkey,\ that\ the\ \r\n\ agent\ object\ is.\r\n\ @return\ \ returns\ the\ kind\ of\ animal\ as\ a\ string\r\n
+comment3.params=
+comment3.target=double\ getThreshold()
+comment3.text=\r\n\ The\ getThreshold()\ method\ is\ a\ getter\ method,\ returning\r\n\ the\ threshold\ for\ which\ the\ object\ will\ be\ satisfied\ in\r\n\ its\ current\ position.\r\n\ @return\ \ returns\ the\ threshold\ of\ the\ agent\ as\ a\ double.\r\n
+comment4.params=agent
+comment4.target=boolean\ isSameKindAs(Agent)
+comment4.text=\r\n\ The\ isSameKindAs()\ method\ is\ a\ boolean\ method\ that\r\n\ takes\ in\ a\ agent\ object\ and\ compares\ it\ to\ the\ \r\n\ current\ agent\ object.\ It\ checks\ whether\ the\ agents\r\n\ are\ the\ same\ drinker\ or\ not.\r\n\ \r\n\ @param\ agent\ \ \ \ \ agent\ object\ to\ compare\ to\ the\ current\r\n\ \ agent\ that\ calls\ this\ method.\r\n\ \ @return\ \ \ \ \ returns\ boolean\ wether\ agents\ are\ the\ same\ \r\n\ \ \ \ \ \ \ \ \ \ \ \ \ \ type.\r\n
+comment5.params=x\ y
+comment5.target=boolean\ isSatisfiedAt(int,\ int)
+comment5.text=\r\n\ The\ isSatisfied()\ method\ takes\ in\ a\ (x,\ y)\ coordinate\r\n\ and\ returns\ a\ boolean\ whether\ the\ agent\ object\ is\ \r\n\ satisfied\ at\ this\ location.\r\n\ \r\n\ @param\ x\ the\ x-coordinate\ for\ the\ method\ to\ check\r\n\ @param\ y\ the\ y-coordinate\ for\ the\ method\ to\ check\r\n\ @return\ \ boolean\ for\ an\ agent\ if\ it\ is\ satisfied\ or\ not\r\n
+comment6.params=
+comment6.target=boolean\ isSatisfied()
+comment6.text=\r\n\ The\ isSatisfied()\ method\ returns\ a\ boolean\ \r\n\ whether\ the\ agent\ object\ is\ satisfied\ at\ \r\n\ its\ current\ location.\r\n\ @return\ boolean\ for\ satisfaction\ at\ current\ location.\r\n
+comment7.params=
+comment7.target=void\ relocate()
+comment7.text=\r\n\ The\ relocate()\ method\ moves\ the\ agent\ object\r\n\ to\ the\ first\ open\ space\ that\ the\ agent\ would\r\n\ be\ satisfied\ in.\r\n
+numComments=8

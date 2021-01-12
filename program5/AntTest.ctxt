@@ -1,0 +1,26 @@
+#BlueJ class context
+comment0.params=
+comment0.target=AntTest()
+comment0.text=\r\n\ Creates\ a\ new\ AntTest\ test\ object.\r\n
+comment1.params=
+comment1.target=void\ setUp()
+comment1.text=\r\n\ Sets\ up\ the\ test\ fixture.\r\n\ Called\ before\ every\ test\ case\ method.\r\n
+comment2.params=
+comment2.target=void\ testGetHealth()
+comment2.text=\r\n\ tests\ getHealth()\r\n
+comment3.params=
+comment3.target=void\ testSetHealth()
+comment3.text=\r\n\ tests\ setHealth()\r\n
+comment4.params=
+comment4.target=void\ testGetFoodCost()
+comment4.text=\r\n\ tests\ getFoodCost()\r\n
+comment5.params=
+comment5.target=void\ testSetFoodCost()
+comment5.text=\r\n\ tests\ setFoodCost()\r\n
+comment6.params=
+comment6.target=void\ testInjureAlive()
+comment6.text=\r\n\ test\ injure()\ method\ when\ still\ alive\ after\r\n
+comment7.params=
+comment7.target=void\ testInjureDead()
+comment7.text=\r\n\ test\ injure()\ method\ when\ ant\ dies\r\n
+numComments=8

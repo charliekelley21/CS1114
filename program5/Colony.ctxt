@@ -1,0 +1,26 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Colony()
+comment0.text=\r\n\ Creates\ a\ new\ Colony\ object.\r\n
+comment1.params=x\ y
+comment1.target=void\ onTouchDown(int,\ int)
+comment1.text=\r\n\ Add\ an\ ant\ to\ the\ screen\ when\ a\ specific\ location\ is\ clicked.\r\n\ This\ method\ is\ automatically\ called\ while\ the\ simulation\ is\r\n\ running,\ whenever\ the\ user\ clicks\ on\ (or\ taps\ on)\ a\ location\r\n\ in\ the\ colony\ (one\ that\ isn't\ covered\ by\ an\ actor\ already).\r\n\ \r\n\ @param\ x\ The\ x-coordinate\ of\ the\ click\r\n\ @param\ y\ The\ y-coordinate\ of\ the\ click\r\n
+comment2.params=
+comment2.target=int\ getFood()
+comment2.text=\r\n\ getFood()\ method\ returns\ number\ of\ food\ of\ the\ Colony\r\n\ @return\ food\ remaining\ in\ colony\ store.\r\n
+comment3.params=stock
+comment3.target=void\ addFood(int)
+comment3.text=\r\n\ addFood()\ method\ adds\ n\ food\ to\ colony\r\n\ @param\ stock\ \ \ \ \ number\ of\ food\ to\ add\ to\ colony\r\n
+comment4.params=consumption
+comment4.target=void\ consumeFood(int)
+comment4.text=\r\n\ consumeFood()\ consumes\ a\ given\ amount\ of\ food\ from\ the\ colony's\r\n\ supply\ of\ food.\r\n\ @param\ consumption\ \ \ \ \ number\ of\ food\ to\ remove\ to\ colony\r\n
+comment5.params=
+comment5.target=void\ lose()
+comment5.text=\r\n\ method\ ends\ the\ game\ when\ you\ lose\r\n
+comment6.params=
+comment6.target=void\ win()
+comment6.text=\r\n\ method\ ends\ the\ game\ when\ you\ win\r\n
+comment7.params=
+comment7.target=void\ act()
+comment7.text=\r\n\ act\ method\ called\ for\ each\ clock\ tick.\ updates\ food\ of\ colony\r\n\ and\ checks\ if\ the\ game\ has\ ended.\r\n
+numComments=8

@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Hive()
+comment0.text=\r\n\ Creates\ a\ new\ Hive\ object.\r\n
+comment1.params=
+comment1.target=void\ act()
+comment1.text=\r\n\ act\ method\ for\ the\ hive\ releases\ bees\ into\ the\ world\ to\ attack\r\n\ the\ queens\ chamber.\r\n
+comment2.params=
+comment2.target=int\ getBees()
+comment2.text=\r\n\ getBees()\ method\ checks\ how\ many\ bees\ are\ left\ in\ the\ hive.\r\n\ @return\ \ number\ of\ bees\ in\ thehive\ object.\r\n
+comment3.params=addBees
+comment3.target=void\ setBees(int)
+comment3.text=\r\n\ setBees()\ method\ is\ a\ setter\ method\ for\ bees\ in\ a\ hive.\r\n\ @param\ addBees\ \ \ number\ of\ bees\ to\ set\ in\ hive.\r\n
+numComments=4

@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.params=
+comment0.target=City()
+comment0.text=\r\n\ Creates\ a\ new\ City\ object.\r\n
+comment1.params=width\ height
+comment1.target=City(int,\ int)
+comment1.text=\r\n\ Creates\ a\ new\ City\ object.\r\n\ \r\n\ @param\ width\ \ \ \ \ width\ of\ new\ city\ object\r\n\ @param\ height\ \ \ \ height\ of\ new\ city\ object\r\n
+comment2.params=elephants\ monkeys\ threshold
+comment2.target=void\ populate(double,\ double,\ double)
+comment2.text=\r\n\ The\ populate()\ method\ fills\ the\ City\ world\ with\ elephants\ \r\n\ and\ monkeys\ and\ passes\ a\ threshold\ to\ each\ for\ which\ they\r\n\ will\ be\ satisfied\ with\ a\ given\ location.\r\n\ \r\n\ @param\ elephants\ \ \ approximate\ population\ percentage\ of\ \r\n\ \ elephants.\r\n\ @param\ monkeys\ \ \ approximate\ population\ percentage\ of\ \r\n\ \ monkeys.\r\n\ @param\ threshold\ the\ threshold\ value\ for\ all\ agent\ objects.\r\n
+numComments=3

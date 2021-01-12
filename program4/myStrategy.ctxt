@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.params=
+comment0.target=myStrategy()
+comment0.text=\r\n\ Creates\ a\ new\ myStrategy\ object.\r\n
+comment1.params=currentGameState
+comment1.target=sofia.battleship.CallShotMove\ callNextShot(sofia.battleship.GameState)
+comment1.text=\r\n\ the\ main\ "play"\ method\ -\ calls\ your\ next\ shot\ when\ its\ the\r\n\ players\ turn.\r\n\r\n\ @param\ \ currentGameState\ \ \ \ \ current\ state\ of\ the\ game.\r\n\ @return\ shot\ \ \ \ \ \ \ \ \ the\ next\ hsot\ to\ be\ taken.\r\n
+comment2.params=
+comment2.target=boolean\ canPlayDeviously()
+comment2.text=\r\n\ canPlayDeviously()\ determines\ whether\ you\ can\ cheat\ in\ your\ game\r\n\ or\ not.\r\n\r\n\ @return\ cheating\ \ \ \ \ true\ or\ false\ for\ cheating\ during\ the\ game.\r\n
+comment3.params=
+comment3.target=java.lang.String\ getName()
+comment3.text=\r\n\ getter\ method\ that\ returns\ the\ name\ of\ the\ player\ and\ thier\r\n\ strategy.\r\n\r\n\ @return\ \ name\ of\ your\ strategy\ and\ player.\r\n
+comment4.params=
+comment4.target=void\ newGame()
+comment4.text=\r\n\ calls\ strategy\ to\ initalize\ a\ new\ game.\r\n
+comment5.params=currentGameState
+comment5.target=sofia.battleship.ShipPlacementMove\ placeShips(sofia.battleship.GameState)
+comment5.text=\r\n\ method\ to\ place\ ships\ in\ the\ locations\ called\ by\ your\r\n\ strategy.\r\n\r\n\ @param\ \ currentGameState\ provides\ the\ current\ game\ state.\r\n\ @return\ ship\ placements\r\n
+numComments=6

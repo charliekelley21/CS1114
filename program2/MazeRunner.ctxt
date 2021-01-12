@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=
+comment0.target=MazeRunner()
+comment0.text=\r\n\ Creates\ a\ new\ MazeRunner\ object.\r\n
+comment1.params=
+comment1.target=void\ myProgram()
+comment1.text=\r\n\ The\ myProgram()\ method\ is\ designed\ to\ be\ a\ solution\ to\ Program\ 1.\r\n\ <p>\r\n\ the\ myProgram()\ method\ brings\ together\ the\ other\ methods\ of\ the\ \r\n\ MazeRunner\ subclass\ to\ walk\ a\ MazeRunner\ object\ through\ a\ randomized\r\n\ maze\ from\ the\ MazeIsland\ subclass\ of\ Island.\r\n
+comment2.params=x\ y
+comment2.target=void\ hugRightWall(int,\ int)
+comment2.text=\r\n\ The\ hugRightWall()\ method\ fallows\ the\ right\ hand\ side\ of\ the\ maze.\r\n\ <p>\r\n\ the\ hugRightWall()\ method\ guides\ a\ MazeRunner\ object\ through\ any\ \r\n\ instance\ of\ a\ mze\ by\ following\ the\ ride\ hand\ side\ of\ the\ maze.\ \r\n\ The\ MazeRunner\ object\ will\ also\ diable\ any\ nets\ and\ pick\ up\ any\r\n\ flowers\ along\ the\ way.\r\n\ \r\n\ @param\ x\ the\ x-coordinate\ of\ the\ Jeroo's\ starting\ position.\r\n\ @param\ y\ the\ y-coordinate\ of\ the\ Jeroo's\ starting\ position.\r\n
+comment3.params=
+comment3.target=void\ lookBeforeHop()
+comment3.text=\r\n\ The\ lookBeforeHop()\ method\ has\ the\ MazeRunner\ subclass\ hop\ forward\ if\r\n\ the\ path\ is\ clear.\r\n
+numComments=4
